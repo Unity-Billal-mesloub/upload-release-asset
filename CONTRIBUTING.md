@@ -17,9 +17,9 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 2. Configure and install the dependencies: `npm install`
 3. Make sure the tests pass on your machine: `npm run test`
 4. Create a new branch: `git checkout -b my-branch-name`
-5. Make your change, add tests, and make sure the tests still pass
+5. Make your change, add tests, and make sure the tests still pass.[style]
 6. Push to your fork and 
-7. Pat your self on the back and wait for your pull request to be reviewed and merged.
+7. Pat your self on the back and wait for your pull request to be reviewed and merged.[submit a pull request][pr]
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
