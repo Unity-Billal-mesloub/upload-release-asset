@@ -1,8 +1,8 @@
 ## Contributing
 
-[fork]: https://github.com/actions/upload-release-asset/fork
-[pr]: https://github.com/actions/upload-release-asset/compare
-[style]: https://github.com/styleguide/js
+[fork]: https://github.com/Unity-Billal-mesloub/upload-release-asset/fork
+[pr]: https://github.com/Unity-Billal-mesloub/upload-release-asset/compare
+[style]: [https://primer.style/]
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
