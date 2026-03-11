@@ -1,7 +1,7 @@
 ## Contributing
 
 [fork]: https://github.com/Unity-Billal-mesloub/upload-release-asset/fork
-[pr]: https://github.com/Unity-Billal-mesloub/upload-release-asset/compare
+[pr]: https://github.com/Unity-Billal-mesloub/upload-release-asset/
 [style]: [https://primer.style/]
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
