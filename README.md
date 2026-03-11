@@ -5,7 +5,7 @@ repository is here and you can use it as an example, or in Actions. However plea
 we are not going to be updating issues or pull requests on this repository.
 
 **Maintained Actions:**
-* [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+* [softprops/action-gh-release](https://github.com/Unity-for-Unity-Manufacturing/action-gh-release)
 
 To reflect this state we’ve marked this repository as Archived.
 
@@ -17,7 +17,7 @@ If you have found a security issue [please submit it here](https://hackerone.com
 
 This GitHub Action (written in JavaScript) wraps the [GitHub Release API](https://developer.github.com/v3/repos/releases/), specifically the [Upload a Release Asset](https://developer.github.com/v3/repos/releases/#upload-a-release-asset) endpoint, to allow you to leverage GitHub Actions to upload release assets.
 
-<a href="https://github.com/actions/upload-release-asset"><img alt="GitHub Actions status" src="https://github.com/actions/upload-release-asset/workflows/Tests/badge.svg"></a>
+<a href="https://github.com/Unity-Billal-mesloub/upload-release-asset"><img alt="GitHub Actions status" src="https://github.com/Unity-Billal-mesloub/upload-release-asset/workflows/Tests/badge.svg"></a>
 
 ## Usage
 ### Pre-requisites
@@ -32,8 +32,7 @@ For more information on these inputs, see the [API Documentation](https://develo
 For more information on these outputs, see the [API Documentation](https://developer.github.com/v3/repos/releases/#response-for-successful-upload) for an example of what these outputs look like
 
 - `id`: The ID of the asset
-- `browser_download_url`: The URL users can navigate to in order to download the release asset. i.e. `https://github.com/octocat/Hello-World/releases/download/v1.0.0/example.zip`
-
+- `browser_download_url`: The URL users can navigate to in order to download the release asset. i.e. 
 ### Example workflow - upload a release asset
 On every `push` to a tag matching the pattern `v*`, [create a release](https://developer.github.com/v3/repos/releases/#create-a-release) and [upload a release asset](https://developer.github.com/v3/repos/releases/#upload-a-release-asset). This Workflow example assumes you have the [`@actions/create-release`](https://www.github.com/actions/create-release) Action in a previous step:
 
